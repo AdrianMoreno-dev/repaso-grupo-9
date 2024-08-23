@@ -12,3 +12,12 @@ Repositorio para repasar lo que ya se ha visto
     b) git add
     c) gi commit -m "mensaje"
     d) git push
+
+#Realizando un pull request desde mi rama
+1) Se creo nueva rama con git checkout -b nombre-rama
+2) modificar algun archivo
+3) Guardar los cambios y subir al repositorio
+    a) git status
+    b) git add
+    c) gi commit -m "mensaje"
+    d) git push origin nombre de la rama en la q se esta trabajando
