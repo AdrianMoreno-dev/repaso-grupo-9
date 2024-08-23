@@ -20,4 +20,4 @@ Repositorio para repasar lo que ya se ha visto
     a) git status
     b) git add
     c) gi commit -m "mensaje"
-    d) git push
+    d) git push origin nombre de la rama en la q se esta trabajando
